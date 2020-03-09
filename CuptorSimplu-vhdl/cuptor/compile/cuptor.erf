@@ -1,0 +1,15 @@
+MESSAGE "File: c:\My_Designs\proiect_george\cuptor\src\cuptor.vhd" 
+MESSAGE "Compile Entity "cuptor"" 
+MESSAGE "Entity `cuptor' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "CUPTOR" of Entity "CUPTOR"" 
+WARNING ELAB1_0026: "There is no default binding for component "num30".(No entity named "num30" was found)." "c:\My_Designs\proiect_george\cuptor\src\cuptor.vhd" 29 0
+WARNING ELAB1_0026: "There is no default binding for component "num5".(No entity named "num5" was found)." "c:\My_Designs\proiect_george\cuptor\src\cuptor.vhd" 30 0
+MESSAGE "File: c:\My_Designs\proiect_george\cuptor\src\timer30.vhd" 
+MESSAGE "Compile Entity "timer30"" 
+MESSAGE "Entity `timer30' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "arh" of Entity "timer30"" 
+MESSAGE "File: c:\My_Designs\proiect_george\cuptor\src\timer5.vhd" 
+MESSAGE "Compile Entity "timer5"" 
+MESSAGE "Entity `timer5' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "arh" of Entity "timer5"" 
+SUCCESS "Compile success 0 Errors 2 Warnings  Analysis time :  0.3 [s]" 

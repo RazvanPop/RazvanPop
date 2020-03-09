@@ -1,0 +1,22 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 CLOCK
+$IN 5 1 RESET
+$IN 9 1 Start
+$IN +4 1 IA
+$S +4 1 terminare_num5
+$S +4 1 0 5 reset
+I 2 "i#7#integerrict-2147483648 2147483647 "
+$IN +4 2 reglare_temperatura_exterior
+$OUT +4 1 PI
+$OUT +4 1 coacere
+$OUT +4 1 introducere_aliment
+$S +4 1 enable_num5
+$S +4 1 reset_num30
+$S +4 1 0 6 enable
+$S +4 1 0 7 terminar
+I 3 "e#7#STARE_Ts5 a b c d e "
+$S +4 3 NXSTARE
+$S +4 3 0 5 ""
+$ENDWAVE

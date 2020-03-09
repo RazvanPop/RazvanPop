@@ -1,0 +1,7 @@
+39
+~E 1 "./src/timer30.vhd" 6 timer30
+~A 1 "./src/timer30.vhd" 11 arh
+~E 1 "./src/cuptor.vhd" 7 cuptor
+~A 1 "./src/cuptor.vhd" 13 cuptor
+~E 1 "./src/timer5.vhd" 6 timer5
+~A 1 "./src/timer5.vhd" 11 arh
