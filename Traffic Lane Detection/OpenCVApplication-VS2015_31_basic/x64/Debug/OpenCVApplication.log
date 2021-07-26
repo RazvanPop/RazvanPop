@@ -1,0 +1,18 @@
+﻿  OpenCVApplication.cpp
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(442): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(467): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(481): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(648): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(661): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(796): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(639): warning C4101: 'pixeli': unreferenced local variable
+c:\users\razvan\desktop\facultate\proiectsrf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(905): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenCVApplication.vcxproj -> C:\Users\Razvan\Desktop\FACULTATE\ProiectSRF\OpenCVApplication-VS2015_31_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.
